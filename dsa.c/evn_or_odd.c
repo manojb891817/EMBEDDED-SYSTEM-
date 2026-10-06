@@ -1,3 +1,4 @@
+// EVEN OR ODD
 #include <stdbool.h>
 #include<stdio.h>
 int isEven(int n) {
